@@ -1,7 +1,7 @@
 # PRN method
-### It's my first paper! I love it so much!!!
+### It's my first paper! I love it so much!!! Here's the paper title:
 ## Parallel relation network(PRN) for fault detection of train transmission systems in zero-fault sample  
-Proposed such a method for Beijing PHM 2024 conference  
+In this artical, we proposed such a method for Beijing PHM 2024 conference  
 With my paper and all codes!  
 
 ## Dataset  
