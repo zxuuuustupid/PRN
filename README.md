@@ -8,8 +8,9 @@ With my paper and all codes!
 Datasets are not included cause it's too large  
 You can download it on conference website: https://www.icphm.org  
 
-![Official Website for PHM 2024](pics/web.png)  
-<center>Official Website for PHM 2024</center>
+![Official Website for PHM 2024](pics/web.png)
+
+<p align="center">Official Website for PHM 2024</p>
 
 ### Actually those code sucks(not so clean), but they're truly useful
 
