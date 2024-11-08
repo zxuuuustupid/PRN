@@ -5,5 +5,7 @@ Proposed such a method for Beijing PHM 2024 conference
 With my paper and all codes!  
 ## Dataset  
 Datasets are not included cause it's too large  
-You can download it by https://www.icphm.org  
+You can download it on conference website: https://www.icphm.org   
+<img src="pics/1.png"/>
+<div align = center>
 ### Actually those code sucks(not so clean), but they're truly useful
