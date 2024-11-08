@@ -8,11 +8,10 @@ With my paper and all codes!
 Datasets are not included cause it's too large  
 You can download it on conference website: https://www.icphm.org  
 
-<div style="text-align: center;">
-  <img src="pics/web.png" alt="Official Website for PHM 2024" />
-  <p>Official Website for PHM 2024</p>
-</div>
+![Official Website for PHM 2024](pics/web.png)  
+<center>Official Website for PHM 2024</center>
 
 ### Actually those code sucks(not so clean), but they're truly useful
+
 
 
