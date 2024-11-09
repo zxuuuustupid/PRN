@@ -1,7 +1,7 @@
 # PRN method
 ### "It's my first paper! I love it so much!"   
 Let me give a simple introduction to the artical. With all my codes.   
-Here's the `pdf` of the artical: [PRN-20240812.pdf](PRN-20240812.pdf)   
+Here's the `pdf` of the artical: [PRN-20240829.pdf](PRN-20240829.pdf)   
 ## Parallel relation network for fault detection of train transmission systems with zero-fault sample  
 In this artical, we proposed such a method for Beijing PHM 2024 conference   
 ## Model structure   
