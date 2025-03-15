@@ -2,6 +2,10 @@
 ### "It's my first paper! I love it so much!"   
 Let me give a simple introduction to the artical. With all my codes.   
 Here's the `pdf` of the artical: [PRN-20240829.pdf](PRN-20240829.pdf)   
+
+**I'm glad to tell you all that it has been published by IEEE!       
+Paper is availabe on https://ieeexplore.ieee.org/document/10874474**        
+
 ## Parallel relation network for fault detection of train transmission systems with zero-fault sample  
 In this artical, we proposed such a method for Beijing PHM 2024 conference   
 ## Model structure   
